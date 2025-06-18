@@ -2,7 +2,7 @@
 
 A comprehensive Body Mass Index (BMI) calculator with both modern React frontend and Node.js backend implementations. Calculate your BMI, get health insights, and track your progress with a beautiful, responsive interface.
 
-![BMI Calculator Screenshot](https://images.pexels.com/photos/6111597/pexels-photo-6111597.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+![BMI Calculator Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSWMGrvO3rT8jMBotUxa1jgAn1XrcU3wnOoA&s)
 
 ## ✨ Features
 
